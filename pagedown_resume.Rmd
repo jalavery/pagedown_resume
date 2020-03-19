@@ -42,7 +42,7 @@ Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
+Last updated `r format(Sys.Date(), "%B %Y")`
 
 
 
@@ -248,6 +248,11 @@ New York, NY
 
 2019 - 2018
 
+::: aside
+Corresponding publication: [1000 girls, 1000 futures: The New York Academy of Sciences Mentoring Initiative](http://magazine.amstat.org/blog/2018/11/01/1000-girls-1000-futures/?utm_source=informz&utm_medium=email&utm_campaign=amstatnews&_zs=UvcOe1&_zl=vBfH5)
+:::
+
+
 ### Volunteer, Encounter El Salvador
 
 Participated in a ten-day immersion trip to serve the people of San Salvador and Santa Marta in solidarity and to gain a thorough understanding and appreciation of the country’s history.
@@ -287,14 +292,14 @@ Atlanta, Georgia
 Contributed Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### It’s getting hot in here: A novel application of heatmaps to health outcomes research. 
+### It’s getting hot in here: A novel application of heatmaps to health outcomes research
 International Conference for Health Policy Statistics. In collaboration with Bach PB, Panageas KS.
 
 San Diego, CA
 
 2020
 
-### A Comparison of Provider Profiling Approaches with Respect to Low-Volume Providers. 
+### A Comparison of Provider Profiling Approaches with Respect to Low-Volume Providers
 Joint Statistical Meetings. In collaboration with Lipitz-Snyderman A, Li DG, Bach PB, Panageas KS.
 
 Denver, CO
@@ -315,6 +320,10 @@ La Jolla, California
 
 2017
 
+::: aside
+Corresponding publication: [Early-Career Statistician Offers Language, Tools for Establishing Influence](http://magazine.amstat.org/blog/2018/05/01/earlycareertools/)
+:::
+
 ### Biostatistics Coordinating Center Safe Motherhood Initiative Quarterly Updates
 Present at the quarterly meetings of the Safe Motherhood Initiative, American Congress of Obstetricians and Gynecologists (April 2015, July 2015, January 2016). In collaboration with Ananth CV.
 
@@ -322,8 +331,8 @@ New York
 
 2016 - 2015
 
-
-
+Other Professional Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
