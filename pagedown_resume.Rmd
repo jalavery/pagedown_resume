@@ -1,0 +1,349 @@
+---
+title: "Jessica Lavery's resume"
+author: Jessica Lavery
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
+---
+
+Aside
+================================================================================
+
+
+<img src="Lavery_170407_12 round.png">
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> laveryj@mskcc.org
+- <i class="fa fa-laptop"></i> [jessicalavery.com](https://jessica.lavery.com)
+- <i class="fa fa-github"></i> [github.com/jalavery](https://github.com/jalavery)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+
+- **Expert** SAS, R/RStudio
+
+- **Experienced** LaTeX, Review Manager (RevMan) for Meta-analyses
+
+- **Learning** Git/GitHub
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Jessica Lavery {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Columbia University Mailman School of Public Health
+
+Doctor of Public Health (DrPH) in Biostatistics
+
+New York, NY
+
+Present - 2019
+
+
+### University of North Carolina at Chapel Hill
+
+M.S. in Biostatistics
+
+Chapel Hill, NC
+
+2014
+
+*Thesis*: A simulation study comparing different methods of handling missing data in the context of type I diabetes clinical trials.
+
+*Relevant Biostatistics Coursework*: Probability and Statistical Inference, Longitudinal Data Analysis, Categorical Data Analysis, Statistical Methods, General Linear Models, Design of Public Health Studies, Epidemiology, Survival Analysis, Statistical Consulting
+
+### Loyola University Maryland
+
+Bachelor of Science in Statistics, *cum laude*
+
+Baltimore, MD
+
+2012
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Research Biostatistician II 
+
+Memorial Sloan Kettering Cancer Center
+
+New York, NY
+
+Present - Jan 2020
+
+- Collaborate with clinicians and health services researchers to answer questions related to healthcare utilization and outcomes for patients with cancer using retrospective institutional data in addition to large population-based administrative databases (Surveillance, Epidemiology, and End Results (SEER)-Medicare linked data, Medicare claims). 
+- Statistician for American Association of Cancer Research Genomics Evidence Neoplasia Information Exchange (GENIE) biopharmaceutical collaborative. Involved in writing standard operating procedures for quality assurance, maintaining a quality assurance dashboard, deriving variables for analysis and performing statistical analyses. 
+- Assist investigators with study design and research protocols, including performing sample size calculations and power analyses.
+- Contribute to grant planning and writing.
+- Authored two manuscripts validating the feasibility of using Medicare claims for cancer-specific analyses.
+- Developed a repository of SAS macros for routine tasks (e.g. pulling claims from SEER-Medicare data) to improve efficiency and reproducibility.
+- Built a project management tool through the R Shiny Application package to easily view the status of past, current and upcoming projects across multiple statisticians.
+
+### Research Biostatistician I
+
+Memorial Sloan Kettering Cancer Center
+
+New York, NY
+
+Jan 2020 - Feb 2018
+
+### Assistant Research Biostatistician
+
+Memorial Sloan Kettering Cancer Center
+
+New York, NY
+
+Feb 2018 - Mar 2017
+
+### Biostatistician
+
+NYU Langone Medical Center
+
+New York, NY
+
+2016 - 2017
+
+- Collaborated with the Department of Population Health to analyze orthopaedic health outcomes utilizing large administrative databases (Healthcare Cost and Utilization Project, Statewide Planning and Research Cooperative System, National Ambulatory Medical Care Survey). 
+- Consulted with faculty, residents, fellows and musculoskeletal research staff in the Department of Orthopedic Surgery to design studies, manage and analyze data, present results, and write methods and results sections of manuscripts.
+
+
+### Biostatistician
+
+Columbia University Medical Center
+
+New York, NY
+
+2016 - 2014
+
+- Provided data management, programming and biostatistics support for the Safe Motherhood Initiative (Merck for Mothers), examining the impact of developing standard approaches to treat obstetric emergencies.
+- Utilized large administrative claims databases (National Hospital Discharge Survey, National Vital Statistics System, Premier Perspectives) to explore maternal-fetal outcomes via hierarchical models, age-period-cohort models, and meta-analyses, among other methods.
+-	Served as a teaching assistant for Applied Methods in Health Services and Outcomes Research (Spring 2015 and 2016).
+
+### Graduate Research Assistant
+
+Rho, Inc
+
+Chapel Hill, NC
+
+2014 - 2013
+
+- Provided programming support to the federally funded autoimmune disease team by creating and modifying analysis datasets, tables, listings and figures.
+
+### Biostatistics Intern
+
+Lineberger Comprehensive Cancer Center
+
+Chapel Hill, NC
+
+2014 - 2013
+
+-	Created an experiential learning internship to gain exposure to the field of biostatistics by volunteering to assist a Master’s level statistician with cancer studies by collaborating with investigators, programming analysis datasets, conducting analyses, and assisting with organizational tasks.
+
+### Statistical Programmer I / Clinical Data Associate I
+
+Stat-Tech Services, LLC
+
+Chapel Hill, NC
+
+2013 - 2012
+
+-	Provided programming support as specified in analysis plans for tables, graphs and listings. Validated statistical output and perform quality control as required. 
+-	Provided data entry and quality control support of statistical packages. Documented data management and validation tasks per standard operating procedures. Responsible for creating, organizing and checking project file content. 
+
+
+Honors & Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Travel award recipient
+
+Women in Statistics and Data Science 
+
+Charlotte, NC
+
+2016
+
+
+### Travel award recipient 
+
+Women in Statistics and Data Science 
+
+La Jolla, CA
+
+2017
+
+### Pi Mu Epsilon
+
+National Mathematical and Statistics Honor Society
+
+Baltimore, MD
+
+2012
+
+### Boston University Summer Institute for Training in Biostatistics
+
+Recipient of a full scholarship to the National Heart Lung and Blood Institute-funded Boston University Summer Institute for Training in Biostatistics. The program modules were in biostatistics, epidemiology, clinical trials, statistical genetics and training in SAS.
+
+Boston, MA
+
+2011
+
+
+Leadership & Service {data-icon=hands-helping}
+--------------------------------------------------------------------------------
+
+### Volunteer Coordinator, Caucus for Women in Statistics
+
+Test
+
+New York, NY
+
+Present - 2019
+
+### Professional Development Committee Member, Caucus for Women in Statistics
+
+Test
+
+New York, NY
+
+Present - 2019
+
+### Volunteer, DataKind
+Review applications for Google.org’s Artificial Intelligence (AI) Impact Challenge on the criteria of impact, feasibility, use of AI, scalability and responsibility in order to help identify the most promising ideas that aim to apply artificial intelligence to achieve positive social impact
+
+New York, NY
+
+Jan-Mar 2009
+
+### Mentor, 1000 Girls, 1000 Futures, New York Academy of Sciences
+
+Share experiences, advice, and resources throughout the course of a year-long mentoring program focused on leadership, critical thinking, communication and academic preparedness for two consecutive years. 
+
+New York, NY
+
+2019 - 2018
+
+### Volunteer, Encounter El Salvador
+
+Participated in a ten-day immersion trip to serve the people of San Salvador and Santa Marta in solidarity and to gain a thorough understanding and appreciation of the country’s history.
+
+San Salvador and Santa Marta, El Salvador
+
+May 2012
+
+### President, Loyola University Maryland's Chapter of Colleges Against Cancer
+Organized fundraisers for American Cancer Society.
+Coordinated sign up and transportation for volunteers from Loyola to cheer on Memorial Sloan Kettering Fred’s Team runners for the New York City Marathon (2009-2011).
+
+Baltimore, MD
+
+2012 - 2009
+
+
+Invited Presentations {data-icon=users}
+--------------------------------------------------------------------------------
+
+### Data Driven: The Role of Biostatistics in Cancer Research and Health Policy
+Summary
+
+Wake Forest Department of Mathematics and Statistics
+
+2019
+
+### Plurality and perinatal mortality: preterm delivery as a mediating effect. 
+
+Invited presentation at the Perinatal Epidemiology scientific forum at the Society for Maternal Fetal Medicine’s 36th Annual Pregnancy Meeting.
+
+Atlanta, Georgia
+
+2016
+
+
+Contributed Presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### It’s getting hot in here: A novel application of heatmaps to health outcomes research. 
+International Conference for Health Policy Statistics. In collaboration with Bach PB, Panageas KS.
+
+San Diego, CA
+
+2020
+
+### A Comparison of Provider Profiling Approaches with Respect to Low-Volume Providers. 
+Joint Statistical Meetings. In collaboration with Lipitz-Snyderman A, Li DG, Bach PB, Panageas KS.
+
+Denver, CO
+
+2019
+
+### Real World Evidence to Profile Hospitals’ Quality of Surgical Cancer Care
+AcademyHealth Datapalooza
+
+Washington, D.C.
+
+2019
+
+### Language and tools for establishing influence as an early-career statistician
+Women in Statistics and Data Science
+
+La Jolla, California
+
+2017
+
+### Biostatistics Coordinating Center Safe Motherhood Initiative Quarterly Updates
+Present at the quarterly meetings of the Safe Motherhood Initiative, American Congress of Obstetricians and Gynecologists (April 2015, July 2015, January 2016). In collaboration with Ananth CV.
+
+New York
+
+2016 - 2015
+
+
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+MSK
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
