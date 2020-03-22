@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 editor_options: 
@@ -64,6 +64,8 @@ New York, NY
 
 Present - 2019
 
+Part time student in the Department of Biostatistics. Expected time to completion: five years. 
+
 
 ### University of North Carolina at Chapel Hill
 
@@ -104,6 +106,8 @@ Present - Jan 2020
 - Authored two manuscripts validating the feasibility of using Medicare claims for cancer-specific analyses.
 - Developed a repository of SAS macros for routine tasks (e.g. pulling claims from SEER-Medicare data) to improve efficiency and reproducibility.
 - Built a project management tool through the R Shiny Application package to easily view the status of past, current and upcoming projects across multiple statisticians.
+
+<br>
 
 ### Research Biostatistician I
 
@@ -177,17 +181,10 @@ Chapel Hill, NC
 -	Provided data entry and quality control support of statistical packages. Documented data management and validation tasks per standard operating procedures. Responsible for creating, organizing and checking project file content. 
 
 
+<br>
+
 Honors & Awards {data-icon=award}
 --------------------------------------------------------------------------------
-
-### Travel award recipient
-
-Women in Statistics and Data Science 
-
-Charlotte, NC
-
-2016
-
 
 ### Travel award recipient 
 
@@ -197,11 +194,20 @@ La Jolla, CA
 
 2017
 
+
+### Travel award recipient
+
+Women in Statistics and Data Science 
+
+Charlotte, NC
+
+2016
+
 ### Pi Mu Epsilon
 
 National Mathematical and Statistics Honor Society
 
-Baltimore, MD
+N/A
 
 2012
 
@@ -217,17 +223,9 @@ Boston, MA
 Leadership & Service {data-icon=hands-helping}
 --------------------------------------------------------------------------------
 
-### Volunteer Coordinator, Caucus for Women in Statistics
-
-Test
+### Volunteer Coordinator, Professional Development Committee Member, Caucus for Women in Statistics
 
 N/A
-
-Present - 2019
-
-### Professional Development Committee Member, Caucus for Women in Statistics
-
-Test
 
 N/A
 
@@ -238,7 +236,7 @@ Review applications for Google.org’s Artificial Intelligence (AI) Impact Chall
 
 N/A
 
-Jan-Mar 2009
+2019
 
 ### Mentor, 1000 Girls, 1000 Futures, New York Academy of Sciences
 
@@ -259,24 +257,32 @@ Participated in a ten-day immersion trip to serve the people of San Salvador and
 
 N/A
 
-May 2012
+2012
 
 ### President, Loyola University Maryland's Chapter of Colleges Against Cancer
 Organized fundraisers for American Cancer Society.
 Coordinated sign up and transportation for volunteers from Loyola to cheer on Memorial Sloan Kettering Fred’s Team runners for the New York City Marathon (2009-2011).
 
-Baltimore, MD
+N/A
 
 2012 - 2009
 
 
 Invited Presentations {data-icon=users}
 --------------------------------------------------------------------------------
+### Project GENIE BPC Subcommittee Meeting
+N/A
+
+Philadelphia, PA
+
+2020
+
+<br>
 
 ### Data Driven: The Role of Biostatistics in Cancer Research and Health Policy
-Summary
+Invited seminar for the Mathematics and Statistics Department at Wake Forest University.
 
-Wake Forest Department of Mathematics and Statistics
+Wake Forest, NC
 
 2019
 
@@ -291,13 +297,24 @@ Atlanta, Georgia
 
 Contributed Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+### It's Time to Shine with the timetrackR App
+Presented at RLadies meeting
+
+New York, NY
+
+2020
+
+:::aside
+Links to [timetrackR app](https://timetrackr.shinyapps.io/timetrackr/)
+and [GitHub repository](www.github.com/jalavery/timetrackr)
+:::
 
 ### It’s getting hot in here: A novel application of heatmaps to health outcomes research
 International Conference for Health Policy Statistics. In collaboration with Bach PB, Panageas KS.
 
 San Diego, CA
 
-2020
+N/A
 
 ### A Comparison of Provider Profiling Approaches with Respect to Low-Volume Providers
 Joint Statistical Meetings. In collaboration with Lipitz-Snyderman A, Li DG, Bach PB, Panageas KS.
@@ -311,7 +328,7 @@ AcademyHealth Datapalooza
 
 Washington, D.C.
 
-2019
+N/A
 
 ### Language and tools for establishing influence as an early-career statistician
 Women in Statistics and Data Science
@@ -342,18 +359,18 @@ Denver, CO
 2019
 
 ### The Social Statistician: Navigating Social Media in 2019
-Roundtable organizer and facilitator; Joint Statistical Meetings
+Roundtable organizer and facilitator, Joint Statistical Meetings
 
 Denver, CO
 
-2019
+N/A
 
 ### Practical and methodological issues related to profiling hospitals in the United States
 Topic-contributed session organizer, Joint Statistical Meetings
 
 Vancouver, BC
 
-2019
+N/A
 
 ### Ad hoc reviewer, Journal of Urology
 N/A
@@ -367,7 +384,7 @@ N/A
 
 N/A
 
-2018
+N/A
 
 ### Ad hoc reviewer, British Journal of Obstetrics and Gynaecology
 N/A
@@ -381,14 +398,7 @@ N/A
 
 N/A
 
-2014
-
-### Participant, SAMSI Undergraduate Workshop
 N/A
-
-Research Triangle Park, NC
-
-2012
 
 ### Invited participant, Women’s Leadership Conference
 N/A
@@ -407,9 +417,11 @@ N/A
 
 2019
 
-J Immunother Cancer. 2020 Mar;8(1). doi: 10.1136/jitc-2019-000260. PubMed PMID: 32152222.
+J Immunother Cancer. 2020 Mar. PubMed PMID: 32152222.
 
-<br><br><br>
+:::aside
+For a full list of publications see my [Google Scholar](https://scholar.google.com/citations?user=4_XbhlgAAAAJ&hl=en) bibliography.
+:::
 
 ### Assessment of variation in 30-day mortality following cancer surgeries among older adults across US hospitals
 Lipitz-Snyderman A, **Lavery JA**, Bach PB, Li DG, Yang A, Strong VE, Russo A, Panageas KS
@@ -418,16 +430,16 @@ N/A
 
 N/A
 
-Cancer Med. 2020 Mar;9(5):1648-1660. doi: 10.1002/cam4.2800. Epub 2020 Jan 9. PubMed PMID: 31918457; PubMed Central PMCID: PMC7050094.
+Cancer Med. 2020 Mar. PMCID: PMC7050094.
 
 ### Toxicity and efficacy of intravitreal Melphalan for retinoblastoma: 25 µg Versus 30 µg
 Liao A, Hsieh T, Francis JH, **Lavery JA**, Mauguen A, Brodie SE, Abramson DH
 
 N/A
 
-2019
+N/A
 
-Retina. 2020 Feb 26;. doi: 10.1097/IAE.0000000000002782. [Epub ahead of print] PubMed PMID: 32106160.
+Retina. 2020 Feb 26. PubMed PMID: 32106160.
 
 ### Assessing whether cancer stage is needed to evaluate measures of hospital surgical performance
 **Lavery JA**, Lipitz-Snyderman A, Li DG, Bach PB, Panageas KS
@@ -436,7 +448,7 @@ N/A
 
 N/A
 
-J Eval Clin Pract. 2020 Feb;26(1):66-71. doi: 10.1111/jep.13168. Epub 2019 May 9. PubMed PMID: 31069903; PubMed Central PMCID: PMC6842027.
+J Eval Clin Pract. 2020 Feb. PMCID: PMC6842027.
 
 ### Robust CD4+ T-cell recovery in adults transplanted with cord blood and no antithymocyte globulin
 Politikos I, Lavery JA, Hilden P, Cho C, Borrill T, Maloy MA, Giralt SA, van den Brink MRM, Perales MA, Barker JN
@@ -445,7 +457,7 @@ N/A
 
 N/A
 
-Blood Adv. 2020 Jan 14;4(1):191-202. doi: 10.1182/bloodadvances.2019000836. PubMed PMID: 31935291; PubMed Central PMCID: PMC6960461.
+Blood Adv. 2020 Jan. PMCID: PMC6960461.
 
 ### Inpatient folate testing at an academic cancer center: single-year experience
 Epstein-Peterson ZD, Li DG, **Lavery JA**, Barrow B, Chokshi I, Korenstein D
@@ -454,7 +466,7 @@ N/A
 
 N/A
 
-Support Care Cancer. 2020 Jan 3;. doi: 10.1007/s00520-019-05267-1. [Epub ahead of print] PubMed PMID: 31900617.
+Support Care Cancer. 2020 Jan. PMID: 31900617.
 
 ### The New York State Safe Motherhood Initiative: Early Impact of Obstetric Hemorrhage Bundle Implementation
 Goffman D, Ananth CV, Fleischer A, D'Alton M, **Lavery JA**, Smiley R, Zielinski K, Chazotte C
@@ -463,7 +475,9 @@ N/A
 
 N/A
 
-Am J Perinatol. 2019 Nov;36(13):1344-1350. doi: 10.1055/s-0038-1676976. Epub 2019 Jan 4. PubMed PMID: 30609429.
+Am J Perinatol. 2019 Nov. PMID: 30609429.
+
+<br>
 
 ### A rectal cancer organoid platform to study individual responses to chemoradiation 
 Ganesh K, Wu C, O'Rourke KP, Szeglin BC, Zheng Y, Sauvé CG, Adileh M, Wasserman I, Marco MR, Kim AS, Shady M, Sanchez-Vega F, Karthaus WR, Won HH, Choi SH, Pelossof R, Barlas A, Ntiamoah P, Pappou E, Elghouayel A, Strong JS, Chen CT, Harris JW, Weiser MR, Nash GM, Guillem JG, Wei IH, Kolesnick RN, Veeraraghavan H, Ortiz EJ, Petkovska I, Cercek A, Manova-Todorova KO, Saltz LB, **Lavery JA**, DeMatteo RP, Massagué J, Paty PB, Yaeger R, Chen X, Patil S, Clevers H, Berger MF, Lowe SW, Shia J, Romesser PB, Dow LE, Garcia-Aguilar J, Sawyers CL, Smith JJ
@@ -472,7 +486,7 @@ N/A
 
 N/A 
 
-Nat Med. 2019 Oct 7;. doi: 10.1038/s41591-019-0584-2. [Epub ahead of print] PubMed PMID: 31591597.
+Nat Med. 2019 Oct. PMID: 31591597.
 
 ### Factors Associated with Utilizing the Same Hospital for Subsequent Total Hip or Knee Arthroplasty in Osteoarthritis Patients
 Slover J, **Lavery JA**, Toombs C, Bosco JA, Gold HT. 
@@ -481,7 +495,7 @@ N/A
 
 N/A
 
-Bull Hosp Jt Dis (2013). 2019 Sep;77(3):164-170. PubMed PMID: 31487480.
+Bull Hosp Jt Dis. 2019 Sep. PMID: 31487480.
 
 ### Implementing Obstetric Venous Thromboembolism Protocols on a Statewide Basis: Results from New York State's Safe Motherhood Initiative
 Friedman AM, Ananth CV, **Lavery JA**, Fleischer AA, Chazotte C, D'Alton ME
@@ -490,7 +504,7 @@ N/A
 
 N/A
 
-Am J Perinatol. 2019 May;36(6):574-580. doi: 10.1055/s-0038-1668549. Epub 2018 Sep 13. PubMed PMID: 30212917.
+Am J Perinatol. 2019 May. PMID: 30212917.
 
 ### National guidelines may reduce socioeconomic disparities in treatment selection for esophageal cancer
 Nobel TB, **Lavery JA**, Barbetta A, Gennarelli RL, Lidor AO, Jones DR, Molena D
@@ -499,7 +513,7 @@ N/A
 
 N/A
 
-Dis Esophagus. 2019 May 1;32(5). doi: 10.1093/dote/doy111. PubMed PMID: 30496376; PubMed Central PMCID: PMC6514299.
+Dis Esophagus. 2019 May. PMCID: PMC6514299.
 
 ### Trends in Opioid Use Among Older Survivors of Colorectal, Lung, and Breast Cancers 
 Salz T, **Lavery JA**, Lipitz-Snyderman AN, Boudreau DM, Moryl N, Gillespie EF, Korenstein D
@@ -508,7 +522,7 @@ N/A
 
 N/A
 
-J Clin Oncol. 2019 Apr 20;37(12):1001-1011. doi: 10.1200/JCO.18.00938. Epub 2019 Feb 28. PubMed PMID: 30817249; PubMed Central PMCID: PMC6494264.
+J Clin Oncol. 2019 Apr. PMCID: PMC6494264.
 
 ### Appropriate statistical methods are available to handle biases encountered in blinded, independent, central review (BICR) determined progression-free survival
 **Lavery JA**, Panageas KS
@@ -517,7 +531,7 @@ N/A
 
 N/A
 
-J Hosp Manag Health Policy. 2019 Apr;3. doi: 10.21037/jhmhp.2019.04.01. Epub 2019 Apr 9. PubMed PMID: 31304462; PubMed Central PMCID: PMC6625798.
+J Hosp Manag Health Policy. 2019 Apr. PMCID: PMC6625798.
 
 ### Identifying Cancer-Directed Surgeries in Medicare Claims: A Validation Study Using SEER-Medicare Data
 **Lavery JA**, Lipitz-Snyderman A, Li DG, Bach PB, Panageas KS
@@ -526,7 +540,7 @@ N/A
 
 N/A
 
-JCO Clin Cancer Inform. 2019 Feb;(3):1-24. doi: 10.1200/CCI.18.00093. PubMed PMID: 30715928.
+JCO Clin Cancer Inform. 2019 Feb. PubMed PMID: 30715928.
 
 ### Assessing resident perceptions of electronic medical record utilization: what affects the quality of clinical notes? 
 Phillips D, Fisher N, **Lavery JA**, Karia R, Kalet A
@@ -535,7 +549,9 @@ N/A
 
 2018
 
-Bull Hosp Jt Dis. 2018;76(4):273-7.
+Bull Hosp Jt Dis. 2018.
+
+<br>
 
 ### Surgical Accuracy of an Early Intervention Knee Implant Instrumentation System
 Lowry M, Buza J, Liu J, Rosenbaum H, **Lavery J**, Bosco J, Walker PS
@@ -544,7 +560,7 @@ N/A
 
 N/A
 
-J Knee Surg. 2018 Nov;31(10):979-985. doi: 10.1055/s-0038-1625959. Epub 2018 Jan 30. PubMed PMID: 29381882.
+J Knee Surg. 2018 Nov. PMID: 29381882.
 
 ### Safe Motherhood Initiative: Early Impact of Severe Hypertension in Pregnancy Bundle Implementation. 
 
@@ -554,7 +570,7 @@ N/A
 
 N/A
 
-AJP Rep. 2018 Oct;8(4):e212-e218. doi: 10.1055/s-0038-1673632. Epub 2018 Oct 11. PubMed PMID: 30319925; PubMed Central PMCID: PMC6181646.
+AJP Rep. 2018 Oct. PMCID: PMC6181646.
 
 ### Bariatric Surgery and Time to Total Joint Arthroplasty: Does It Affect Readmission and Complication Rates? 
 Schwarzkopf R, **Lavery JA**, Hooper J, Parikh M, Gold HT
@@ -563,7 +579,7 @@ N/A
 
 N/A
 
-Obes Surg. 2018 May;28(5):1395-1401. doi: 10.1007/s11695-017-3034-6. PubMed PMID: 29168111.
+Obes Surg. 2018 May. PMID: 29168111.
 
 ### Therapy Caps and Variation in Cost of Outpatient Occupational Therapy by Provider, Insurance Status, and Geographic Region
 Pergolotti M, **Lavery J**, Reeve BB, Dusetzina SB
@@ -572,7 +588,7 @@ N/A
 
 N/A
 
-Am J Occup Ther. 2018 Mar/Apr;72(2):7202205050p1-7202205050p9. doi: 10.5014/ajot.2018.023796. PubMed PMID: 29426383; PubMed Central PMCID: PMC5807401.
+Am J Occup Ther. 2018 Mar/Apr. PMID: 29426383; PubMed Central PMCID: PMC5807401.
 
 ### Continuous Infraclavicular Brachial Block Versus Single-Shot Nerve Block for Distal Radius Surgery: A Prospective Randomized Control Trial
 Ganta A, Ding D, Fisher N, **Lavery J**, Jain S, Tejwani NC
@@ -581,7 +597,7 @@ N/A
 
 N/A
 
-J Orthop Trauma. 2018 Jan;32(1):22-26. doi: 10.1097/BOT.0000000000001021. PubMed PMID: 29040231.
+J Orthop Trauma. 2018 Jan. PMID: 29040231.
 
 ### Incidence and Risk Factors for Blood Transfusion in Total Joint Arthroplasty: Analysis of a Statewide Database
 Slover J, **Lavery JA**, Schwarzkopf R, Iorio R, Bosco J, Gold HT
@@ -590,7 +606,7 @@ N/A
 
 2017
 
-J Arthroplasty. 2017 Sep;32(9):2684-2687.e1. doi: 10.1016/j.arth.2017.04.048. Epub 2017 May 4. PubMed PMID: 28579446.
+J Arthroplasty. 2017 Sep. PMID: 28579446.
 
 ### Serious maternal complications in relation to severe pre-eclampsia: a retrospective cohort study of the impact of hospital volume
 Ananth CV, **Lavery JA**, Friedman AM, Wapner RJ, Wright JD
@@ -599,7 +615,7 @@ N/A
 
 N/A
 
-BJOG. 2017 Jul;124(8):1246-1253. doi: 10.1111/1471-0528.14384. Epub 2016 Oct 21. PubMed PMID: 27770512.
+BJOG. 2017 Jul. PMID: 27770512.
 
 ### Primary and Repeat Cesarean Deliveries: A Population-based Study in the United States, 1979-2010
 Ananth CV, Friedman AM, Keyes KM, **Lavery JA**, Hamilton A, Wright JD
@@ -608,7 +624,9 @@ N/A
 
 N/A
 
-Epidemiology. 2017 Jul;28(4):567-574. doi: 10.1097/EDE.0000000000000658. PubMed PMID: 28346271; PubMed Central PMCID: PMC5501955.
+Epidemiology. 2017 Jul. PMCID: PMC5501955.
+
+<br><br><br>
 
 ### Intraoperative Handoffs and Postoperative Complications Among Patients Undergoing Gynecologic Oncology Operations
 Doll KM, **Lavery JA**, Snavely AC, Gehrig PA
@@ -617,7 +635,7 @@ N/A
 
 N/A
 
-J Healthc Qual. 2017 Jul/Aug;39(4):e42-e48. doi: 10.1097/JHQ.0000000000000042. PubMed PMID: 27348430; PubMed Central PMCID: PMC5183519.
+J Healthc Qual. 2017 Jul/Aug. PMCID: PMC5183519.
 
 ### Gestational diabetes in the United States: temporal changes in prevalence rates between 1979 and 2010
 **Lavery JA**, Friedman AM, Keyes KM, Wright JD, Ananth CV
@@ -630,7 +648,7 @@ N/A
 Corresponding material: [video abstract](https://vimeo.com/rcog/authorinsights14236)
 :::
 
-BJOG. 2017 Apr;124(5):804-813. doi: 10.1111/1471-0528.14236. Epub 2016 Aug 11. PubMed PMID: 27510598; PubMed Central PMCID: PMC5303559.
+BJOG. 2017 Apr. PMCID: PMC5303559.
 
 ### Neurodevelopmental outcomes in children in relation to placental abruption
 Ananth CV, Friedman AM, **Lavery JA**, VanderWeele TJ, Keim S, Williams MA
@@ -639,7 +657,7 @@ N/A
 
 N/A
 
-BJOG. 2017 Feb;124(3):463-472. doi: 10.1111/1471-0528.14049. Epub 2016 Apr 22. PubMed PMID: 27102365.
+BJOG. 2017 Feb. PMID: 27102365.
 
 ### The effect of maternal haematocrit on offspring IQ at 4 and 7 years of age: a secondary analysis
 Drassinower D, **Lavery JA**, Friedman AM, Levin HI, Običan SG, Ananth CV
@@ -648,7 +666,7 @@ N/A
 
 2016
 
-BJOG. 2016 Dec;123(13):2087-2093. doi: 10.1111/1471-0528.14263. Epub 2016 Aug 17. PubMed PMID: 27533357.
+BJOG. 2016 Dec. PMID: 27533357.
 
 ### Cervical ripening agents in the second trimester of pregnancy in women with a scarred uterus: a systematic review and metaanalysis of observational studies
 Andrikopoulou M, **Lavery JA**, Ananth CV, Vintzileos AM
@@ -657,7 +675,7 @@ N/A
 
 N/A
 
-Am J Obstet Gynecol. 2016 Aug;215(2):177-94. doi: 10.1016/j.ajog.2016.03.037. Epub 2016 Mar 25. Review. PubMed PMID: 27018469.
+Am J Obstet Gynecol. 2016 Aug. PMID: 27018469.
 
 ### Temporal trends in obstetric trauma and inpatient surgery for pelvic organ prolapse: an age-period-cohort analysis
 Lisonkova S, **Lavery JA**, Ananth CV, Chen I, Muraca G, Cundiff GW, Joseph KS
@@ -666,7 +684,7 @@ N/A
 
 N/A
 
-Am J Obstet Gynecol. 2016 Aug;215(2):208.e1-208.e12. doi: 10.1016/j.ajog.2016.02.027. Epub 2016 Feb 17. PubMed PMID: 26899905.
+Am J Obstet Gynecol. 2016 Aug. PMID: 26899905.
 
 ### Biases in secondary analyses of randomised trials: recognition, correction, and implications
 Ananth CV, **Lavery JA**
@@ -675,7 +693,7 @@ N/A
 
 N/A
 
-BJOG. 2016 Jun;123(7):1056-9. doi: 10.1111/1471-0528.13732. PubMed PMID: 27206028.
+BJOG. 2016 Jun. PMID: 27206028.
 
 ### Severe placental abruption: clinical definition and associations with maternal complications
 Ananth CV, **Lavery JA**, Vintzileos AM, Skupski DW, Varner M, Saade G, Biggio J, Williams MA, Wapner RJ, Wright JD
@@ -684,7 +702,7 @@ N/A
 
 N/A
 
-Am J Obstet Gynecol. 2016 Feb;214(2):272.e1-9. doi: 10.1016/j.ajog.2015.09.069. Epub 2015 Sep 21. PubMed PMID: 26393335.
+Am J Obstet Gynecol. 2016 Feb. PMID: 26393335.
 
 ### Placental implantation abnormalities and risk of preterm delivery: a systematic review and metaanalysis
 Vahanian SA, **Lavery JA**, Ananth CV, Vintzileos A
@@ -693,7 +711,9 @@ N/A
 
 2015
 
-Am J Obstet Gynecol. 2015 Oct;213(4 Suppl):S78-90. doi: 10.1016/j.ajog.2015.05.058. Review. PubMed PMID: 26428506.
+Am J Obstet Gynecol. 2015 Oct. PMID: 26428506.
+
+<br><br><br>
 
 ### The prevalence of potentially modifiable functional deficits and the subsequent use of occupational and physical therapy by older adults with cancer
 Pergolotti M, Deal AM, **Lavery J**, Reeve BB, Muss HB
@@ -702,4 +722,4 @@ N/A
 
 N/A
 
-J Geriatr Oncol. 2015 May;6(3):194-201. doi: 10.1016/j.jgo.2015.01.004. Epub 2015 Jan 19. PubMed PMID: 25614296; PubMed Central PMCID: PMC4459887.
+J Geriatr Oncol. 2015 May. PMID: 25614296, PMCID: PMC4459887.
